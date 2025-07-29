@@ -82,5 +82,3 @@ This project demonstrates the setup of a private two-tier architecture using Cen
 
 ## 📸 Screenshots
 
-### 1. Network Adapter Settings – Web Server  
-Shows the web server's network interface configured with Host-Only Adapter.  
