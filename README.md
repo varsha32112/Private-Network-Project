@@ -80,5 +80,5 @@ This project demonstrates the setup of a private two-tier architecture using Cen
 
 
 
-## 📸 Screenshots
+
 
